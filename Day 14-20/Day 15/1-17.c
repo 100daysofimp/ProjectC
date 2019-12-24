@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*Exercise 1-17: Write a program to print al input lines that are longer than 80 characters*/
+/*Exercise 1-17: Write a program to print all input lines that are longer than 80 characters*/
 
 #define MAXLINE 1000		/*maximum input line size*/
 #define LONGLINE 80
